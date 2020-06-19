@@ -1,0 +1,20 @@
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\bin\Debug\Projeto 3 Principal.exe.config
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\bin\Debug\Projeto 3 Principal.exe
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\bin\Debug\Projeto 3 Principal.pdb
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto 3 Principal.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form1.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto 3 Principal.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto 3 Principal.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto 3 Principal.exe
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto 3 Principal.pdb
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form2.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form3.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form4.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form5.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form6.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form7.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form8.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form9.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form10.resources
+C:\Users\Gabriel\source\repos\Projeto 3 Principal\Projeto 3 Principal\obj\Debug\Projeto_3_Principal.Form11.resources
